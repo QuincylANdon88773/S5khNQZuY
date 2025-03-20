@@ -43,7 +43,6 @@ block_comment_end = */
 [**go.mod]
 indent_style = tab
 
-[t/coredns/db.test.local]
 indent_style = unset
 
 [*.pb]
