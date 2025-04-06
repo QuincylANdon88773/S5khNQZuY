@@ -162,7 +162,6 @@ python3 train.py --actor_device_cpu
 
 ## 评估
 评估可以使用GPU或CPU进行（GPU效率会高得多）。预训练模型可以通过[Google Drive](https://drive.google.com/drive/folders/1NmM2cXnI5CIWHaLJeoDZMiwt6lOTV_UB?usp=sharing)或[百度网盘](https://pan.baidu.com/s/18g-JUKad6D8rmBONXUDuOQ), 提取码: 4624 下载。将预训练权重放到`baselines/`目录下。模型性能通过自我对弈进行评估。我们提供了一些其他预训练模型和一些启发式方法作为基准：
-*   [random](douzero/evaluation/random_agent.py): 智能体随机出牌（均匀选择）
 *   [rlcard](douzero/evaluation/rlcard_agent.py): [RLCard](https://github.com/datamllab/rlcard)项目中的规则模型
 *   SL (`baselines/sl/`): 基于人类数据进行深度学习的预训练模型
 *   DouZero-ADP (`baselines/douzero_ADP/`): 以平均分数差异（Average Difference Points, ADP）为目标训练的Douzero智能体
