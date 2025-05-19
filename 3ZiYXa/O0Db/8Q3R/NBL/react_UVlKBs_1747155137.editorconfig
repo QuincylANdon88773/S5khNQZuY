@@ -3,4 +3,3 @@ root = true
 
 [*.{js,json,ts,vue,svelte,html}]
 indent_style = space
-indent_size = 2
