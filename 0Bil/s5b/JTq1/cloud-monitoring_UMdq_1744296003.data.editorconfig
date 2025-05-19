@@ -194,7 +194,6 @@ ij_php_space_before_finally_left_brace = true
 ij_php_space_before_for_left_brace = true
 ij_php_space_before_for_parentheses = true
 ij_php_space_before_for_semicolon = false
-ij_php_space_before_if_left_brace = true
 ij_php_space_before_if_parentheses = true
 ij_php_space_before_method_call_parentheses = false
 ij_php_space_before_method_left_brace = true
