@@ -149,7 +149,6 @@ ij_php_phpdoc_use_fqcn = false
 ij_php_phpdoc_wrap_long_lines = false
 ij_php_place_assignment_sign_on_next_line = false
 ij_php_place_parens_for_constructor = 0
-ij_php_property_read_weight = 28
 ij_php_property_weight = 28
 ij_php_property_write_weight = 28
 ij_php_return_type_on_new_line = false
