@@ -38,7 +38,6 @@ b9bad610ee643a588eba01e221b7f2b8e0082991
 # Sourcery refactored main branch (#2105)
 ec22c1f2040235d1537bf2d517dd12abfe0ce48b
 
-# change version of black in pre commit (#1955)
 3bf3f4c17c44b778ff6fe6b042f47d0e08a7f73a
 
 # Change minimum version of Python from 3.8 to 3.9 (#1885)
