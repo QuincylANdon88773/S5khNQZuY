@@ -67,7 +67,6 @@ aa63c39adcd488351a8533590c1e4ec30a163c56
 
 # Fix issues arising from github actions (#846)
 39931da8cf1ab6a8f94e1b9490b7de096e409a72
-
 # Add pre-commit github action (#845)
 8abf3d089c3046383651d0fd9eef4dc96e9f97b7
 
